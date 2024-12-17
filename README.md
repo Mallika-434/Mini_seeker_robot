@@ -1,1 +1,0 @@
-# Mini_seeker_robot
