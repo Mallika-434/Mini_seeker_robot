@@ -36,9 +36,6 @@ To use the face recognition scripts, ensure that you have the required libraries
 - Internet connection for IoT capabilities
 - Various libraries listed in each script
 
-## Contributors
-- [Your Name or GitHub Handle]
-
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
