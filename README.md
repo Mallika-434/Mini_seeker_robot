@@ -1,5 +1,5 @@
 
-# Face Recognition and Robotic Control System
+# Mini Seeker Robot
 
 ## Description
 This repository contains a series of Python scripts and a literature survey related to face recognition technologies and robotic control systems. The face recognition system is designed to encode, recognize, and manage face data, while the robotic control system leverages IoT technology and ESP32-CAM for navigational control in various applications.
